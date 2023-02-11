@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miroppb
 - 👀 I’m interested in working for a company that can help me grow as a developer
-- 🌱 I’m currently learning C#, Python, Java, and SQL, but am open to reaching new horizons
+- 🌱 I’m currently learning C#, some VB, and SQL, but am open to reaching new horizons
 - 💞️ I’m looking to collaborate on 🤷‍♂️
 - 📫 How to reach me: miro[at]miroppb.com
 
